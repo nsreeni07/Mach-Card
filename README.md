@@ -13,8 +13,7 @@ The card is built around the NT3H2111 NFC chip, which harvests energy wirelessly
 How It All Fits Together
 The antenna loop, chip, resistor, capacitor, and LED are all on one 88.9 × 50.8mm PCB standard business card size. The antenna takes up most of the right side of the board, with the passive components clustered near the chip on the left. The silkscreen layer on top carries the card's identity name, links, and custom art printed in white over the soldermask. The whole thing is assembled by JLCPCB with SMT components, so it arrives ready to program and hand out.
 
-<img width="744" height="362" alt="Screenshot 2026-05-21 161924" src="https://github.com/user-attachments/assets/8470d410-067d-4975-9adb-7522fd73ca55" />
-<img width="648" height="352" alt="Screenshot 2026-05-21 161918" src="https://github.com/user-attachments/assets/449fa6aa-16df-4700-bcc3-ddc2c3f0e131" />
-<img width="410" height="447" alt="Screenshot 2026-06-09 221149" src="https://github.com/user-attachments/assets/f4737002-68ee-48bd-8187-ceedfc658c6f" />
+<img width="862" height="490" alt="Screenshot 2026-06-25 221014" src="https://github.com/user-attachments/assets/82daf533-5650-48e9-8a02-71568d8244ac" />
+<img width="1768" height="595" alt="Screenshot 2026-06-25 215907" src="https://github.com/user-attachments/assets/5da4abc1-b17f-4f4a-9ad5-6a366525c50a" />
 <img width="976" height="683" alt="Mach Card Schematic" src="https://github.com/user-attachments/assets/a14d0110-8849-45ad-baf4-0bb0abe56356" />
 
